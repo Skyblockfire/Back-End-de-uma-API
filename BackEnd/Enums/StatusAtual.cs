@@ -6,9 +6,9 @@ namespace BackEnd.Enums
     {
         [Description("Inativo")]
         Inativo = 0,
-        [Description("Pendente")]
-        Pendente = 1,
         [Description("Ativo")]
-        Ativo = 2
+        Ativo = 1,
+        [Description("Pendente")]
+        Pendente = 2
     }
 }

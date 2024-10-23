@@ -8,7 +8,7 @@ namespace BackEnd.Models
         public required string RazaoSocial { get; set; }
         public required string NomeFantasia { get; set; }
         public required string CNPJ { get; set; }
-        public DateTimeOffset DataAbertura { get; set; }
+        public DateTimeOffset? DataAbertura { get; set; }
         public required string CNAE { get; set; }
         public required string NaturezaJuridica { get; set; }
         public required string CEP { get; set; }

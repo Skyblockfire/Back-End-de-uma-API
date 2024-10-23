@@ -14,7 +14,7 @@ namespace BackEnd.Data.Map
             builder.Property(x => x.Telefone).IsRequired();
             builder.Property(x => x.CPF).IsRequired();
             builder.Property(x => x.Status).IsRequired();
-            builder.Property(x => x.EmpresaId).IsRequired();
+            builder.Property(x => x.EmpresaId);
         }
     }
 }

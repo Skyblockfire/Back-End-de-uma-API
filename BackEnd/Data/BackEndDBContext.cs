@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using BackEnd.Models;
+using BackEnd.Data.Map;
 
 namespace BackEnd.Data
 {
@@ -15,6 +16,9 @@ namespace BackEnd.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            modelBuilder.ApplyConfiguration(new UserMap());
+            modelBuilder.ApplyConfiguration(new CompanyMap());
+
             base.OnModelCreating(modelBuilder);
         }
     }

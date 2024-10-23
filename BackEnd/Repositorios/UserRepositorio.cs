@@ -19,7 +19,15 @@ namespace BackEnd.Repositorios
 
         public async Task<List<UserModel>> BuscarTodosUsers()
         {
-            return await _dbContext.Users.ToListAsync();
+            return await _dbContext.Users
+                .Include(u => u.Company)
+                .ToListAsync();
+        }
+        public async Task<List<UserModel>> BuscarParaTabela()
+        {
+            return await _dbContext.Users
+                .Include(u => u.Company)
+                .ToListAsync();
         }
         public async Task<UserModel> Adicionar(UserModel user)
         {

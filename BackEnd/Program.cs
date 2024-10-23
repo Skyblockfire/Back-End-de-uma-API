@@ -18,12 +18,10 @@ namespace BackEnd
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
-            builder.Services.AddEntityFrameworkSqlServer()
-                .AddDbContext<BackEndDBContext>(
-                    options => options.UseSqlServer(builder.Configuration.GetConnectionString("Database"))
-                );
+            builder.Services.AddDbContext<BackEndDBContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("Database")));
 
             builder.Services.AddScoped<IUserRepositorio, UserRepositorio>();
+            builder.Services.AddScoped<ICompanyRepositorio, CompanyRepositorio>();
 
             var app = builder.Build();
 

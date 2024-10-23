@@ -3,24 +3,54 @@
   "WorkspaceRootPath": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{606A7267-1143-444C-9A88-C7599D54B808}|BackEnd.csproj|c:\\users\\yuki ix\\desktop\\backend\\back-end-de-uma-api\\backend\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{606A7267-1143-444C-9A88-C7599D54B808}|BackEnd.csproj|solutionrelative:models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{606A7267-1143-444C-9A88-C7599D54B808}|BackEnd.csproj|c:\\users\\yuki ix\\desktop\\backend\\back-end-de-uma-api\\backend\\models\\companymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{606A7267-1143-444C-9A88-C7599D54B808}|BackEnd.csproj|solutionrelative:models\\companymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{606A7267-1143-444C-9A88-C7599D54B808}|BackEnd.csproj|c:\\users\\yuki ix\\desktop\\backend\\back-end-de-uma-api\\backend\\data\\map\\usermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{606A7267-1143-444C-9A88-C7599D54B808}|BackEnd.csproj|solutionrelative:data\\map\\usermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{606A7267-1143-444C-9A88-C7599D54B808}|BackEnd.csproj|c:\\users\\yuki ix\\desktop\\backend\\back-end-de-uma-api\\backend\\repositorios\\interfaces\\icompanyrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606A7267-1143-444C-9A88-C7599D54B808}|BackEnd.csproj|solutionrelative:repositorios\\interfaces\\icompanyrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606A7267-1143-444C-9A88-C7599D54B808}|BackEnd.csproj|c:\\users\\yuki ix\\desktop\\backend\\back-end-de-uma-api\\backend\\repositorios\\companyrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606A7267-1143-444C-9A88-C7599D54B808}|BackEnd.csproj|solutionrelative:repositorios\\companyrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606A7267-1143-444C-9A88-C7599D54B808}|BackEnd.csproj|c:\\users\\yuki ix\\desktop\\backend\\back-end-de-uma-api\\backend\\dtos\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606A7267-1143-444C-9A88-C7599D54B808}|BackEnd.csproj|solutionrelative:dtos\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606A7267-1143-444C-9A88-C7599D54B808}|BackEnd.csproj|c:\\users\\yuki ix\\desktop\\backend\\back-end-de-uma-api\\backend\\data\\map\\companymap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606A7267-1143-444C-9A88-C7599D54B808}|BackEnd.csproj|solutionrelative:data\\map\\companymap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606A7267-1143-444C-9A88-C7599D54B808}|BackEnd.csproj|c:\\users\\yuki ix\\desktop\\backend\\back-end-de-uma-api\\backend\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606A7267-1143-444C-9A88-C7599D54B808}|BackEnd.csproj|solutionrelative:controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yuki IX\\AppData\\Local\\Temp\\ha412fjw..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606A7267-1143-444C-9A88-C7599D54B808}|BackEnd.csproj|c:\\users\\yuki ix\\desktop\\backend\\back-end-de-uma-api\\backend\\data\\backenddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606A7267-1143-444C-9A88-C7599D54B808}|BackEnd.csproj|solutionrelative:data\\backenddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606A7267-1143-444C-9A88-C7599D54B808}|BackEnd.csproj|c:\\users\\yuki ix\\desktop\\backend\\back-end-de-uma-api\\backend\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606A7267-1143-444C-9A88-C7599D54B808}|BackEnd.csproj|solutionrelative:dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606A7267-1143-444C-9A88-C7599D54B808}|BackEnd.csproj|c:\\users\\yuki ix\\desktop\\backend\\back-end-de-uma-api\\backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606A7267-1143-444C-9A88-C7599D54B808}|BackEnd.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{606A7267-1143-444C-9A88-C7599D54B808}|BackEnd.csproj|c:\\users\\yuki ix\\desktop\\backend\\back-end-de-uma-api\\backend\\enums\\statusatual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{606A7267-1143-444C-9A88-C7599D54B808}|BackEnd.csproj|solutionrelative:enums\\statusatual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{606A7267-1143-444C-9A88-C7599D54B808}|BackEnd.csproj|c:\\users\\yuki ix\\desktop\\backend\\back-end-de-uma-api\\backend\\repositorios\\userrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{606A7267-1143-444C-9A88-C7599D54B808}|BackEnd.csproj|solutionrelative:repositorios\\userrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{606A7267-1143-444C-9A88-C7599D54B808}|BackEnd.csproj|c:\\users\\yuki ix\\desktop\\backend\\back-end-de-uma-api\\backend\\enums\\enumextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606A7267-1143-444C-9A88-C7599D54B808}|BackEnd.csproj|solutionrelative:enums\\enumextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yuki IX\\AppData\\Local\\Temp\\fp0c3wr4..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{606A7267-1143-444C-9A88-C7599D54B808}|BackEnd.csproj|c:\\users\\yuki ix\\desktop\\backend\\back-end-de-uma-api\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,28 +61,16 @@
       "RelativeMoniker": "D:0:0:{606A7267-1143-444C-9A88-C7599D54B808}|BackEnd.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{606A7267-1143-444C-9A88-C7599D54B808}|BackEnd.csproj|c:\\users\\yuki ix\\desktop\\backend\\back-end-de-uma-api\\backend\\repositorios\\interfaces\\iuserrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{606A7267-1143-444C-9A88-C7599D54B808}|BackEnd.csproj|solutionrelative:repositorios\\interfaces\\iuserrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yuki IX\\AppData\\Local\\Temp\\fp0c3wr4..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{606A7267-1143-444C-9A88-C7599D54B808}|BackEnd.csproj|c:\\users\\yuki ix\\desktop\\backend\\back-end-de-uma-api\\backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{606A7267-1143-444C-9A88-C7599D54B808}|BackEnd.csproj|solutionrelative:backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yuki IX\\AppData\\Local\\Temp\\fp0c3wr4..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{606A7267-1143-444C-9A88-C7599D54B808}|BackEnd.csproj|c:\\users\\yuki ix\\desktop\\backend\\back-end-de-uma-api\\backend\\repositorios\\interfaces\\icompanyrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{606A7267-1143-444C-9A88-C7599D54B808}|BackEnd.csproj|solutionrelative:repositorios\\interfaces\\icompanyrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yuki IX\\AppData\\Local\\Temp\\ha412fjw..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{606A7267-1143-444C-9A88-C7599D54B808}|BackEnd.csproj|c:\\users\\yuki ix\\desktop\\backend\\back-end-de-uma-api\\backend\\data\\backenddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{606A7267-1143-444C-9A88-C7599D54B808}|BackEnd.csproj|solutionrelative:data\\backenddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{606A7267-1143-444C-9A88-C7599D54B808}|BackEnd.csproj|c:\\users\\yuki ix\\desktop\\backend\\back-end-de-uma-api\\backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{606A7267-1143-444C-9A88-C7599D54B808}|BackEnd.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{606A7267-1143-444C-9A88-C7599D54B808}|BackEnd.csproj|c:\\users\\yuki ix\\desktop\\backend\\back-end-de-uma-api\\backend\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{606A7267-1143-444C-9A88-C7599D54B808}|BackEnd.csproj|solutionrelative:controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yuki IX\\AppData\\Local\\Temp\\ha412fjw..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +80,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,168 +88,192 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserMap.cs",
-              "DocumentMoniker": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\Data\\Map\\UserMap.cs",
-              "RelativeDocumentMoniker": "Data\\Map\\UserMap.cs",
-              "ToolTip": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\Data\\Map\\UserMap.cs",
-              "RelativeToolTip": "Data\\Map\\UserMap.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T07:07:54.742Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "StatusAtual.cs",
-              "DocumentMoniker": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\Enums\\StatusAtual.cs",
-              "RelativeDocumentMoniker": "Enums\\StatusAtual.cs",
-              "ToolTip": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\Enums\\StatusAtual.cs",
-              "RelativeToolTip": "Enums\\StatusAtual.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Title": "CompanyDto.cs",
+              "DocumentMoniker": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\DTOs\\CompanyDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CompanyDto.cs",
+              "ToolTip": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\DTOs\\CompanyDto.cs",
+              "RelativeToolTip": "DTOs\\CompanyDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T07:00:06.786Z",
+              "WhenOpened": "2024-08-19T14:21:47.997Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAIwCQAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T05:42:49.794Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-01T05:37:06.465Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserModel.cs",
-              "DocumentMoniker": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\Models\\UserModel.cs",
-              "RelativeDocumentMoniker": "Models\\UserModel.cs",
-              "ToolTip": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\Models\\UserModel.cs",
-              "RelativeToolTip": "Models\\UserModel.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAsAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T18:47:38.551Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\Repositorios\\UserRepositorio.cs",
-              "RelativeDocumentMoniker": "Repositorios\\UserRepositorio.cs",
-              "ToolTip": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\Repositorios\\UserRepositorio.cs",
-              "RelativeToolTip": "Repositorios\\UserRepositorio.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAwwCsAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T05:05:45.231Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CompanyModel.cs",
-              "DocumentMoniker": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\Models\\CompanyModel.cs",
-              "RelativeDocumentMoniker": "Models\\CompanyModel.cs",
-              "ToolTip": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\Models\\CompanyModel.cs",
-              "RelativeToolTip": "Models\\CompanyModel.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAA9wBYAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T18:47:13.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BackEndDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\Data\\BackEndDBContext.cs",
-              "RelativeDocumentMoniker": "Data\\BackEndDBContext.cs",
-              "ToolTip": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\Data\\BackEndDBContext.cs",
-              "RelativeToolTip": "Data\\BackEndDBContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T04:14:29.009Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IUserRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\Repositorios\\Interfaces\\IUserRepositorio.cs",
-              "RelativeDocumentMoniker": "Repositorios\\Interfaces\\IUserRepositorio.cs",
-              "ToolTip": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\Repositorios\\Interfaces\\IUserRepositorio.cs",
-              "RelativeToolTip": "Repositorios\\Interfaces\\IUserRepositorio.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T04:56:09.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ICompanyRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\Repositorios\\Interfaces\\ICompanyRepositorio.cs",
-              "RelativeDocumentMoniker": "Repositorios\\Interfaces\\ICompanyRepositorio.cs",
-              "ToolTip": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\Repositorios\\Interfaces\\ICompanyRepositorio.cs",
-              "RelativeToolTip": "Repositorios\\Interfaces\\ICompanyRepositorio.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T04:58:07.243Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T20:36:25.408Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "CompanyController.cs",
               "DocumentMoniker": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\Controllers\\CompanyController.cs",
               "RelativeDocumentMoniker": "Controllers\\CompanyController.cs",
               "ToolTip": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\Controllers\\CompanyController.cs",
               "RelativeToolTip": "Controllers\\CompanyController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAjwDQAAABkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T20:36:03.437Z"
+              "WhenOpened": "2024-08-01T14:23:49.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CompanyMap.cs",
+              "DocumentMoniker": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\Data\\Map\\CompanyMap.cs",
+              "RelativeDocumentMoniker": "Data\\Map\\CompanyMap.cs",
+              "ToolTip": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\Data\\Map\\CompanyMap.cs",
+              "RelativeToolTip": "Data\\Map\\CompanyMap.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T12:42:07.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompanyModel.cs",
+              "DocumentMoniker": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\Models\\CompanyModel.cs",
+              "RelativeDocumentMoniker": "Models\\CompanyModel.cs",
+              "ToolTip": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\Models\\CompanyModel.cs",
+              "RelativeToolTip": "Models\\CompanyModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T13:01:54.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICompanyRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\Repositorios\\Interfaces\\ICompanyRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorios\\Interfaces\\ICompanyRepositorio.cs",
+              "ToolTip": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\Repositorios\\Interfaces\\ICompanyRepositorio.cs",
+              "RelativeToolTip": "Repositorios\\Interfaces\\ICompanyRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T14:26:20.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompanyRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\Repositorios\\CompanyRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorios\\CompanyRepositorio.cs",
+              "ToolTip": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\Repositorios\\CompanyRepositorio.cs",
+              "RelativeToolTip": "Repositorios\\CompanyRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T15:39:56.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SQLQuery2.sql ",
+              "DocumentMoniker": "C:\\Users\\Yuki IX\\AppData\\Local\\Temp\\ha412fjw..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\ha412fjw..sql",
+              "ToolTip": "SQLQuery2.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-20T04:37:19.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BackEndDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\Data\\BackEndDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\BackEndDBContext.cs",
+              "ToolTip": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\Data\\BackEndDBContext.cs",
+              "RelativeToolTip": "Data\\BackEndDBContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T12:46:49.148Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "BackEnd.csproj",
-              "DocumentMoniker": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\BackEnd.csproj",
-              "RelativeDocumentMoniker": "BackEnd.csproj",
-              "ToolTip": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\BackEnd.csproj",
-              "RelativeToolTip": "BackEnd.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-31T18:44:40.36Z",
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "DTOs\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T14:55:25.176Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAApwBcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T13:28:59.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StatusAtual.cs",
+              "DocumentMoniker": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\Enums\\StatusAtual.cs",
+              "RelativeDocumentMoniker": "Enums\\StatusAtual.cs",
+              "ToolTip": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\Enums\\StatusAtual.cs",
+              "RelativeToolTip": "Enums\\StatusAtual.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T19:51:01.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EnumExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\Enums\\EnumExtension.cs",
+              "RelativeDocumentMoniker": "Enums\\EnumExtension.cs",
+              "ToolTip": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\Enums\\EnumExtension.cs",
+              "RelativeToolTip": "Enums\\EnumExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T18:54:12.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\Yuki IX\\AppData\\Local\\Temp\\fp0c3wr4..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\fp0c3wr4..sql",
+              "ToolTip": "SQLQuery1.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-18T12:32:58.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T12:53:21.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Yuki IX\\Desktop\\BackEnd\\Back-End-de-uma-API\\BackEnd\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-01T12:51:43.363Z"
             }
           ]
         }
